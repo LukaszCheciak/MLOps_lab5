@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+MLOps_course_AGH_lab_05.egg-info/PKG-INFO
+MLOps_course_AGH_lab_05.egg-info/SOURCES.txt
+MLOps_course_AGH_lab_05.egg-info/dependency_links.txt
+MLOps_course_AGH_lab_05.egg-info/requires.txt
+MLOps_course_AGH_lab_05.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+click
+dvc
+feature-engine
+jupyter
+mlflow
+numpy
+pandas
+pyarrow
+ruff
+scikit-learn
+torch
